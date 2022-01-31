@@ -1,0 +1,256 @@
+{
+  "users": [
+    {
+      "fullName": "Ipul Septian",
+      "username": "ipul123",
+      "email": "ipul321@mail.com",
+      "password": "password",
+      "role": "admin",
+      "id": 1
+    },
+    {
+      "fullName": "Miftahul Ihsani",
+      "username": "Isan456",
+      "email": "isan654@mail.com",
+      "password": "password",
+      "role": "user",
+      "id": 2
+    },
+    {
+      "fullName": "Bill Gates",
+      "username": "bill",
+      "email": "bill@mail.com",
+      "password": "password",
+      "role": "user",
+      "id": 3
+    },
+    {
+      "fullName": "Rey Mysterio",
+      "username": "Rey",
+      "email": "Rey@mail.com",
+      "password": "password",
+      "role": "user",
+      "id": 4
+    },
+    {
+      "fullName": "John Gondrong",
+      "username": "john",
+      "email": "john@mail.com",
+      "password": "password",
+      "role": "user",
+      "id": 5
+    },
+    {
+      "fullName": "budi doremi",
+      "username": "budi",
+      "email": "budi@mail.com",
+      "password": "password",
+      "role": "user",
+      "id": 6
+    }
+  ],
+  "transactions": [],
+  "products": [
+    {
+      "id": 1,
+      "productName": "Ikan Mas Koki jenis Ranchu",
+      "price": 25000,
+      "productImage": "https://th.bing.com/th/id/R.9989a253d3fa97993ee065e7d189b522?rik=PqwdqS6bKRfaRQ&riu=http%3a%2f%2f4.bp.blogspot.com%2f-tivh0NYj-eM%2fVFBbUVeHNJI%2fAAAAAAAAAHM%2f04PxNc2hqo8%2fs1600%2fg9-ranchu.jpg&ehk=IMX3pMER7FYbskmBnD3MBb5i3XD%2bF4xIRnt0G%2faA8II%3d&risl=&pid=ImgRaw&r=0",
+      "description": "ini ikan ranchu",
+      "category": "hias"
+    },
+    {
+      "id": 2,
+      "productName": "Ikan Mas Koki jenis Oranda",
+      "price": 35000,
+      "productImage": "https://i.pinimg.com/originals/98/8f/b9/988fb9f14164d57e50b634e08c83961a.jpg",
+      "description": "ini ikan Oranda",
+      "category": "hias"
+    },
+    {
+      "id": 3,
+      "productName": "Ikan Mas Koki jenis Oranda Red Cup",
+      "price": 35000,
+      "productImage": "https://ecs7.tokopedia.net/img/cache/700/product-1/2020/2/23/7219887/7219887_8d9b7e2c-4ec7-4c07-b4a4-3e861880dc2f_1280_1280.jpg",
+      "description": "ini ikan Oranda Red Cup",
+      "category": "hias"
+    },
+    {
+      "id": 4,
+      "productName": "Ikan Mas Koki jenis Oranda Red White",
+      "price": 35000,
+      "productImage": "https://2.bp.blogspot.com/-9XadjCAIkLM/W2vCXzi5d0I/AAAAAAAAHRk/2MrV2fmUIggFl-oL8homHZ5HnXO9cl__ACLcBGAs/s1600/ikan-koki-oranda.jpg",
+      "description": "ini ikan Oranda Red White",
+      "category": "hias"
+    },
+    {
+      "id": 5,
+      "productName": "Ikan Mas Koki Mutiara ",
+      "price": 35000,
+      "productImage": "https://th.bing.com/th/id/R.1024b2ec66e8e944458a2f9e85e6224a?rik=2wIB8qnSRpyrtA&riu=http%3a%2f%2f2.bp.blogspot.com%2f-pbbjkfUT5yg%2fUUIeUb8qzTI%2fAAAAAAAABK0%2f3ShG8Fsc1mA%2fs1600%2fikan%2bmas%2bkoki1.jpg&ehk=xOOrZhOIGCb29eGC5jDdyO5vKx1hxZV5uzLj4CEQXik%3d&risl=&pid=ImgRaw&r=0",
+      "description": "ini ikan mas koki Mutiara",
+      "category": "hias"
+    },
+    {
+      "id": 6,
+      "productName": "Ikan Mas Koki Bubble Eye",
+      "price": 25000,
+      "productImage": "https://cdnt.orami.co.id/unsafe/468x335/cdn-cas.orami.co.id/parenting/images/BubbleEyeGoldfish_1d2e9c57-b60a-4668-a2d3-5e50.width-800.jpg",
+      "description": "Ikan mas Koki Bubble eye berwarna: Kuning dan putih berukuran small ",
+      "category": "hias"
+    },
+    {
+      "id": 7,
+      "productName": "Ikan Mas Koki Lion Head",
+      "price": 35000,
+      "productImage": "https://cdnt.orami.co.id/unsafe/468x330/cdn-cas.orami.co.id/parenting/images/lionhead-goldfish-swimming_Huy-Thoai_Shutterst.width-800.jpg",
+      "description": "Ikan mas Koki Lion Head berwarna: orange, putih, Merah, berukuran small ",
+      "category": "hias"
+    },
+    {
+      "id": 8,
+      "productName": "Ikan Mas Koki Fantail",
+      "price": 45000,
+      "productImage": "https://cdnt.orami.co.id/unsafe/468x360/cdn-cas.orami.co.id/parenting/images/Fancy-Red-Fantail-Goldfish.width-800.jpg",
+      "description": "Ikan mas Koki Fantail berwarna: Orange, Putih berukuran small ",
+      "category": "hias"
+    },
+    {
+      "id": 9,
+      "productName": "Ikan Mas Koki Shubunkin 3 Warna",
+      "price": 55000,
+      "productImage": "https://cdnt.orami.co.id/unsafe/468x279/cdn-cas.orami.co.id/parenting/images/Shubunkin-goldfish_Shutterstock_Noheaphotos.width-800.jpg",
+      "description": "Ikan mas Koki Shubunkin berwarna Orange, Putih, dan Hitam Berukuran small ",
+      "category": "hias"
+    },
+    {
+      "id": 10,
+      "productName": "Ikan Channa Barca",
+      "price": 250000000,
+      "productImage": "https://aquapedia.id/wp-content/uploads/2020/05/Channa-Barca.jpg",
+      "description": "Ikan Channa Barca, Berukuran 30-35 Cm",
+      "category": "predator"
+    },
+    {
+      "id": 11,
+      "productName": "Ikan Channa Asiatica",
+      "price": 80000,
+      "productImage": "https://aquapedia.id/wp-content/uploads/2020/05/Channa-Asiatica.jpg",
+      "description": "Ikan Channa Asiatica, Berukuran 10-15 Cm",
+      "category": "predator"
+    },
+    {
+      "id": 12,
+      "productName": "Ikan Channa Auranti",
+      "price": 500000,
+      "productImage": "https://aquapedia.id/wp-content/uploads/2020/05/Channa-Maculata.jpg",
+      "description": "Ikan Channa Auranti, Berukuran 15-20 Cm",
+      "category": "predator"
+    },
+    {
+      "id": 13,
+      "productName": "Ikan Channa Andrao",
+      "price": 200000,
+      "productImage": "https://aquapedia.id/wp-content/uploads/2020/05/Channa-Andrao.jpg",
+      "description": "Ikan Channa Andrao, Berukuran 10-20 Cm",
+      "category": "predator"
+    },
+    {
+      "id": 14,
+      "productName": "Ikan Channa Stewarti",
+      "price": 400000,
+      "productImage": "https://aquapedia.id/wp-content/uploads/2020/05/Channa-Stewartii.jpg",
+      "description": "Ikan Channa Stewarti, Berukuran 15-20 Cm",
+      "category": "predator"
+    },
+    {
+      "id": 15,
+      "productName": "Ikan Channa Mayang",
+      "price": 50000,
+      "productImage": "https://aquapedia.id/wp-content/uploads/2020/05/Channa-Pleurophthalma-e1588680457360.jpg",
+      "description": "Ikan Channa Barca, Berukuran 10-20 Cm",
+      "category": "predator"
+    },
+    {
+      "id": 16,
+      "productName": "Ikan Channa Bleheri",
+      "price": 350000,
+      "productImage": "https://aquapedia.id/wp-content/uploads/2020/05/Channa-Bleheri.jpg",
+      "description": "Ikan Channa Bleheri, Berukuran 10-20 Cm",
+      "category": "predator"
+    },
+    {
+      "id": 17,
+      "productName": "Ikan Channa Striata (Albino)",
+      "price": 250000000,
+      "productImage": "https://aquapedia.id/wp-content/uploads/2020/05/Channa-Striata.jpg",
+      "description": "Ikan Channa Striata, Berukuran 10-20 Cm",
+      "category": "predator"
+    },
+    {
+      "id": 18,
+      "productName": "Ikan Tetra",
+      "price": 1000,
+      "productImage": "https://www.99.co/blog/indonesia/wp-content/uploads/2020/08/Neon-tetra.jpg",
+      "description": "Ikan Aquascape Tetra, Ukuran small",
+      "category": "aquascape"
+    },
+    {
+      "id": 19,
+      "productName": "Ikan Rainbow Fish",
+      "price": 15000,
+      "productImage": "https://blogpictures.99.co/966063779.jpg",
+      "description": "Ikan Aquascape Rainbow, Ukuran Small",
+      "category": "aquascape"
+    },
+    {
+      "id": 20,
+      "productName": "Ikan Angel Fish",
+      "price": 5000,
+      "productImage": "https://blogpictures.99.co/de61cc36be989e842beb6084c5c060d168faae6b.jpg",
+      "description": "Ikan Aquascape Angel Fish, Ukuran Small",
+      "category": "aquascape"
+    },
+    {
+      "id": 21,
+      "productName": "Ikan Dwarf Gourami",
+      "price": 15000,
+      "productImage": "https://modestfish.com/wp-content/uploads/2019/03/Dwarf-Gourami.jpg",
+      "description": "Ikan Aquascape Dwarf Gourami, Ukuran Small",
+      "category": "aquascape"
+    },
+    {
+      "id": 22,
+      "productName": "Ikan Aquascape Guppy",
+      "price": 3000,
+      "productImage": "https://animals.net/wp-content/uploads/2019/11/Guppy-3-650x425.jpg",
+      "description": "Ikan Aquascape Guppy, Ukuran Small",
+      "category": "aquascape"
+    },
+    {
+      "productName": "Ikan Arowana Golden Red",
+      "price": 1600000,
+      "productImage": "https://th.bing.com/th/id/R.714352e6f7ede20bccabeeff07509537?rik=1Y4QAAQVupITWQ&riu=http%3a%2f%2f3.bp.blogspot.com%2f-5N-Y5_lP2z4%2fUyfjoHSydOI%2fAAAAAAAABDM%2fS-zK_nKYTok%2fs1600%2fharga-ikan-arwana-golden-red.jpg&ehk=wKjQIwlHn7jjNFvynD2CPrvA5BMrN8Cnb%2bNjzpLTbUg%3d&risl=&pid=ImgRaw&r=0",
+      "description": "Ikan Arowana Golden Red, Ukuran Medium",
+      "category": "predator",
+      "id": 27
+    },
+    {
+      "productName": "Ikan Channa Yellow Sentarum",
+      "price": 50000,
+      "productImage": "https://1.bp.blogspot.com/-mOu9qypA6_I/YMF_MVvEX2I/AAAAAAAAHoo/y1K_fuLQwF82r5F_4F7W3du_tLAi6Fg0wCLcBGAsYHQ/s1280/yellow%2Bsentarum.jpg",
+      "description": "Ikan Channa Yellow Sentarum, Ukuran Small",
+      "category": "predator",
+      "id": 28
+    },
+    {
+      "productName": "Ikan Oscar ",
+      "price": 50000,
+      "productImage": "https://th.bing.com/th/id/OIP.-Do1t8mQSZclQ8dykKxPggHaEV?pid=ImgDet&rs=1",
+      "description": "Ikan Oscar, Ukuran Small",
+      "category": "predator",
+      "id": 29
+    }
+  ],
+  "carts": []
+}
